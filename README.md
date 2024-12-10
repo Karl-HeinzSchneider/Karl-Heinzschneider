@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍💻 I'm Karl-Heinz Schneider <sub><sup>(not real name)</sup></sub>, a software and web developer from 🇩🇪 Germany.
-- 🔭 I’m currently working on ![DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI).
-- 🎄 I’m currently participating in ![Advent of Code 2024](https://adventofcode.com/2024/) (![My solutions](https://github.com/Karl-HeinzSchneider/advent-of-code))
+- 🔭 I’m currently working on [DragonflightUI](https://github.com/Karl-HeinzSchneider/WoW-DragonflightUI).
+- 🎄 I’m currently participating in [Advent of Code 2024](https://adventofcode.com/2024/) ([My solutions](https://github.com/Karl-HeinzSchneider/advent-of-code))
 - 🧠 I'm interested in maths (numerical analysis, number theory) and computer science (algorithms and data structures, databases).
 - 👯 I’m looking to collaborate on any of my mods for WoW or Plateup!.
 
